@@ -1,5 +1,5 @@
 {
-    "name": "netresearch/rte-ckeditor-image",
+    "name": "noksi/rte-ckeditor-image",
     "type": "typo3-cms-extension",
     "description": "Image support in CKEditor for the TYPO3 ecosystem",
     "homepage": "https://github.com/netresearch/t3x-rte_ckeditor_image",
